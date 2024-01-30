@@ -1,0 +1,79 @@
+[
+    {
+        "id": "65b93afb7d2996b947f41d91",
+        "balance": "$3,106.80",
+        "age": 37,
+        "name": "Viola Erickson",
+        "gender": "female",
+        "company": "PROWASTE",
+        "email": "violaerickson@prowaste.com",
+        "phone": "+1 (985) 463-3878",
+        "address": "850 Caton Avenue, Sussex, Iowa, 9357"
+    },
+    {
+        "id": "65b93afb40a599aacaeafd20",
+        "balance": "$1,876.17",
+        "age": 30,
+        "name": "Lorrie Shannon",
+        "gender": "female",
+        "company": "BULLZONE",
+        "email": "lorrieshannon@bullzone.com",
+        "phone": "+1 (999) 518-3868",
+        "address": "838 Vista Place, Dahlen, Puerto Rico, 3150"
+    },
+    {
+        "id": "65b93afb3d2150d04f7d6bcb",
+        "balance": "$3,940.49",
+        "age": 39,
+        "name": "Kerry Drake",
+        "gender": "female",
+        "company": "DEEPENDS",
+        "email": "kerrydrake@deepends.com",
+        "phone": "+1 (848) 404-3856",
+        "address": "451 Highlawn Avenue, Wakulla, North Carolina, 5952"
+    },
+    {
+        "id": "65b93afb48779d7fd290d944",
+        "balance": "$2,895.91",
+        "age": 29,
+        "name": "Saunders Hess",
+        "gender": "male",
+        "company": "ZINCA",
+        "email": "saundershess@zinca.com",
+        "phone": "+1 (954) 514-2133",
+        "address": "702 Lorimer Street, Trexlertown, Hawaii, 6721"
+    },
+    {
+        "id": "65b93afb46af8abb9c2ef6b6",
+        "balance": "$2,787.08",
+        "age": 26,
+        "name": "Nina Cunningham",
+        "gender": "female",
+        "company": "MARKETOID",
+        "email": "ninacunningham@marketoid.com",
+        "phone": "+1 (807) 568-3079",
+        "address": "494 Dank Court, Bridgetown, Delaware, 1711"
+    },
+    {
+        "id": "65b93afb8183aecdba1183d3",
+        "balance": "$2,684.55",
+        "age": 37,
+        "name": "Byers Santana",
+        "gender": "male",
+        "company": "OZEAN",
+        "email": "byerssantana@ozean.com",
+        "phone": "+1 (988) 541-2970",
+        "address": "384 Duryea Place, Falmouth, Arkansas, 8678"
+    },
+    {
+        "id": "65b93afb9bca573bc5b4f159",
+        "balance": "$1,953.22",
+        "age": 37,
+        "name": "Twila Baxter",
+        "gender": "female",
+        "company": "COSMOSIS",
+        "email": "twilabaxter@cosmosis.com",
+        "phone": "+1 (897) 552-3327",
+        "address": "404 Tompkins Avenue, Nettie, Kansas, 8565"
+    }
+]
